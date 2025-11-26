@@ -2,40 +2,34 @@
 <h1 align="center">Hola, soy Joseph 👋</h1>
 </div>
 
-### Egresado de Ingeniería de Ciberseguridad
-<img src="github-header-image.png">
 
-## Sobre mí             
-Soy un pequeño desarrollador apasionado con este gran mundo de la tecnología, donde puedes convertir tus ideas en realidad, además con este mundo cambiante siempre hay algo que aprender.
+<div align="center">
 
-Estudie y egrese como Profesional Técnico en Ingeniería de Ciberseguridad en el año 2024.
+### Ingeniero de Sistemas
 
-Actualmente estoy enfocando en el tema IA y todo lo que tiene para ofrecer y además sigo estudiando de manera autodidacta sobre redes, protocolos, programación e informática.
+![https://github.com/jossdeno](github-header-image.png)
+</div>
 
-## Proyectos Destacados
+***Soy Ingenierio de Sistemas (Ciberseguridad) - 2024***  
+Ademas de ser tambien un pequeño desarrollador apasionado con el mundo de la tecnología, donde haces tus ideas realidad.  
+Con este mundo cambiante siempre hay algo que aprender.
 
-He realizado algunos proyectos, pero los que mas destacan:
+Actualmente estoy enfocando en el tema IA y todo lo que tiene para ofrecer, tambien sobre ciertos temas como redes, protocolos, programación e informática.
 
-- **Plataforma Web** para la gestión de ventas y cobranzas en una empresa proveedora de internet. Backend escrito con DJANGO y MySQL como base de datos.
+## Proyectos
+
+He realizado algunos proyectos, los mas resaltantes:
+
+- **Asistente de Voz**: Para el apoyo con la ejecucion de comandos en el ordenador usando la voz, estilo tu propio asistente personal (En Desarrollo).
 
 ## Herramientas de Desarrollo
 
-Para realizar estos proyectos, cuento con experiencia trabajando con ciertas Herramientas para el Desarrollo de Software.
+Tengo experiencia trabajando con ciertas Herramientas para el Desarrollo de Software.
 
-**Lenguajes**: 
-- Python
-- HTML
-- CSS
+**Lenguajes**: Python, HTML, CSS
 
-**Frameworks**: 
-- DJANGO (Desarrollo Web)
+**Frameworks**: DJANGO (Desarrollo Web)
 
-**Base de datos**: 
-- MySQL
-- SQLite
+**Base de datos**: MySQL, SQLite
 
-**Herramientas**: 
-- Git
-- Docker
-- Visual Studio Code
-- Linux
+<!-- **Herramientas**: Git, Docker, Visual Studio Code, Linux -->
